@@ -1,0 +1,6 @@
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
