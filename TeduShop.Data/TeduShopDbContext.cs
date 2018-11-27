@@ -1,41 +1,52 @@
-﻿using System.Data.Entity;
+﻿using Microsoft.AspNet.Identity.EntityFramework;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using TeduShop.Model.Models;
 
 namespace TeduShop.Data
 {
-    public class TeduShopDbContext : DbContext
+    public class TeduShopDbContext : IdentityDbContext<ApplicationUser>
     {
         public TeduShopDbContext() : base("TeduShopConnection")
         {
             this.Configuration.LazyLoadingEnabled = false;
         }
 
-        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
-        public DbSet<Error> Errors { get; set; }
-        public DbSet<Footer> Footers { get; set; }
-        public DbSet<IdentityRole> IdentityRoles { get; set; }
-        public DbSet<IdentityUserClaim> IdentityUserClaims { get; set; }
-        public DbSet<IdentityUserLogin> IdentityUserLogins { get; set; }
-        public DbSet<IdentityUserRole> IdentityUserRoles { get; set; }
-        public DbSet<Menu> Menus { get; set; }
-        public DbSet<MenuGroup> MenuGroups { get; set; }
-        public DbSet<Order> Orders { get; set; }
-        public DbSet<OrderDetail> OrderDetails { get; set; }
-        public DbSet<Page> Pages { get; set; }
-        public DbSet<Post> Posts { get; set; }
-        public DbSet<PostCategory> PostCategories { get; set; }
-        public DbSet<PostTag> PostTags { get; set; }
-        public DbSet<Product> Products { get; set; }
-        public DbSet<ProductCategory> ProductCategories { get; set; }
-        public DbSet<ProductTag> ProductTags { get; set; }
-        public DbSet<Slide> Slides { get; set; }
-        public DbSet<SupportOnline> SupportOnlines { get; set; }
-        public DbSet<SystemConfig> SystemConfigs { get; set; }
-        public DbSet<Tag> Tags { get; set; }
-        public DbSet<VisitorStatitic> VisitorStatitics { get; set; }
+        public DbSet<Footer> Footers { set; get; }
+        public DbSet<Menu> Menus { set; get; }
+        public DbSet<MenuGroup> MenuGroups { set; get; }
+        public DbSet<Order> Orders { set; get; }
+        public DbSet<OrderDetail> OrderDetails { set; get; }
+        public DbSet<Page> Pages { set; get; }
+        public DbSet<Post> Posts { set; get; }
+        public DbSet<PostCategory> PostCategories { set; get; }
+        public DbSet<PostTag> PostTags { set; get; }
+        public DbSet<Product> Products { set; get; }
+
+        public DbSet<ProductCategory> ProductCategories { set; get; }
+        public DbSet<ProductTag> ProductTags { set; get; }
+        public DbSet<Slide> Slides { set; get; }
+        public DbSet<SupportOnline> SupportOnlines { set; get; }
+        public DbSet<SystemConfig> SystemConfigs { set; get; }
+
+        public DbSet<Tag> Tags { set; get; }
+
+        public DbSet<VisitorStatistic> VisitorStatistics { set; get; }
+        public DbSet<Error> Errors { set; get; }
+
+        public static TeduShopDbContext Create()
+        {
+            return new TeduShopDbContext();
+        }
 
         protected override void OnModelCreating(DbModelBuilder builder)
         {
+            builder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId });
+            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId);
         }
     }
 }

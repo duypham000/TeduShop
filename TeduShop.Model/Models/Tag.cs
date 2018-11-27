@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TeduShop.Model.Models
@@ -8,19 +7,16 @@ namespace TeduShop.Model.Models
     public class Tag
     {
         [Key]
+        [MaxLength(50)]
         [Column(TypeName = "varchar")]
-        [MaxLength(50)]
-        public string ID { get; set; }
+        public string ID { set; get; }
 
+        [MaxLength(50)]
         [Required]
-        [MaxLength(50)]
-        public string Name { get; set; }
+        public string Name { set; get; }
 
+        [MaxLength(50)]
         [Required]
-        [MaxLength(50)]
-        public string Type { get; set; }
-
-        public virtual IEnumerable<PostTag> PostTags { get; set; }
-        public virtual IEnumerable<ProductTag> ProductTags { get; set; }
+        public string Type { set; get; }
     }
 }

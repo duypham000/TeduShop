@@ -1,48 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using System;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace TeduShop.Model.Models
 {
-    [Table("ApplicationUsers")]
-    public class ApplicationUser
+    public class ApplicationUser : IdentityUser
     {
-        [Key]
-        public string ID { get; set; }
+        [MaxLength(256)]
+        public string FullName { set; get; }
 
         [MaxLength(256)]
-        public string FullName { get; set; }
+        public string Address { set; get; }
 
-        [MaxLength(256)]
-        public string Address { get; set; }
+        public DateTime? BirthDay { set; get; }
 
-        public DateTime? BirthDay { get; set; }
-        public string Email { get; set; }
-
-        [Required]
-        public string EmailConfirmed { get; set; }
-
-        public string PasswordHash { get; set; }
-        public string SecurityStamp { get; set; }
-        public string PhoneNumber { get; set; }
-
-        [Required]
-        public string PhoneNumberCofirmed { get; set; }
-
-        public bool TwoFactorEnabled { get; set; }
-        public DateTime LockoutEndDateUtc { get; set; }
-
-        [Required]
-        public bool LockoutEnabled { get; set; }
-
-        [Required]
-        public int AccessFailedCount { get; set; }
-
-        public string UserName { get; set; }
-
-        public virtual IEnumerable<IdentityUserLogin> IdentityUserLogins { get; set; }
-        public virtual IEnumerable<IdentityUserClaim> IdentityUserClaims { get; set; }
-        public virtual IEnumerable<IdentityUserRole> IdentityUserRoles { get; set; }
+        public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
+        {
+            // Note the authenticationType must match the one defined in CookieAuthenticationOptions.AuthenticationType
+            var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
+            // Add custom user claims here
+            return userIdentity;
+        }
     }
 }

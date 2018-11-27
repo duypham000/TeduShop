@@ -1,39 +1,45 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
 
 namespace TeduShop.Model.Models
 {
     [Table("Orders")]
-    public class Order : Auditable
+    public class Order
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public int ID { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerName { get; set; }
+        public string CustomerName { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerAddress { get; set; }
+        public string CustomerAddress { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerEmail { get; set; }
+        public string CustomerEmail { set; get; }
 
         [Required]
         [MaxLength(50)]
-        public string CustomerMobie { get; set; }
+        public string CustomerMobile { set; get; }
 
         [Required]
         [MaxLength(256)]
-        public string CustomerMessage { get; set; }
+        public string CustomerMessage { set; get; }
 
         [MaxLength(256)]
-        public string PaymentMethod { get; set; }
+        public string PaymentMethod { set; get; }
 
-        public string PaymentStatus { get; set; }
+        public DateTime? CreatedDate { set; get; }
+        public string CreatedBy { set; get; }
+        public string PaymentStatus { set; get; }
+        public bool Status { set; get; }
+
+        public virtual IEnumerable<OrderDetail> OrderDetails { set; get; }
     }
 }

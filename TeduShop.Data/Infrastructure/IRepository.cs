@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 
 namespace TeduShop.Data.Infrastructure
@@ -15,7 +16,6 @@ namespace TeduShop.Data.Infrastructure
         // Marks an entity to be removed
         T Delete(T entity);
 
-        // Marks an id to be removed
         T Delete(int id);
 
         //Delete multi records
