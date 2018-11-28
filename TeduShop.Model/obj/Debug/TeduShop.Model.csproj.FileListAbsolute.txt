@@ -20,3 +20,19 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identi
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojAssemblyReference.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CoreCompileInputs.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CopyComplete
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
