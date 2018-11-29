@@ -15,7 +15,7 @@ namespace TeduShop.Web.Models
 
         public string Image { get; set; }
 
-        public string MoreImage { get; set; }
+        public string MoreImages { get; set; }
         public decimal Price { get; set; }
         public decimal PromotionPrice { get; set; }
         public int Warranty { get; set; }
@@ -25,7 +25,13 @@ namespace TeduShop.Web.Models
         public string Content { get; set; }
         public bool HomeFlag { get; set; }
         public bool HotFlag { get; set; }
+
         public int ViewCount { get; set; }
+
+        public string Tags { get; set; }
+
+        public int Quantity { get; set; }
+
         public DateTime? CreatedDate { get; set; }
 
         public string CreatedBy { get; set; }

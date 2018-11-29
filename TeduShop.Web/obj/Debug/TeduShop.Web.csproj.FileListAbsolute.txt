@@ -139,6 +139,8 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojAssemblyReference.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\csc.exe
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -221,8 +223,6 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Newtonsoft.Json.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Net.Http.Formatting.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Web.Http.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Web.Http.WebHost.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojAssemblyReference.cache
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
