@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using System.ComponentModel.DataAnnotations;
 
 namespace TeduShop.Web.Models
 {
     public class ProductCategoryViewModel
     {
-        public int ID { get; set; }
+        [Required(ErrorMessage = "Yêu cầu nhập tên danh mục")]
+        public string Name { set; get; }
 
-        public string Name { get; set; }
-
-        public string Alias { get; set; }
+        [Required(ErrorMessage = "Yêu cầu nhập tiêu đề SEO")]
+        public string Alias { set; get; }
 
         public string Description { get; set; }
 
