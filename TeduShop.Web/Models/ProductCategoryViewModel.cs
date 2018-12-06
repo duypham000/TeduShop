@@ -6,6 +6,8 @@ namespace TeduShop.Web.Models
 {
     public class ProductCategoryViewModel
     {
+        public int ID { get; set; }
+
         [Required(ErrorMessage = "Yêu cầu nhập tên danh mục")]
         public string Name { set; get; }
 
