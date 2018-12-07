@@ -13,19 +13,19 @@
     <!-- Ionicons -->
     <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
     <!-- Theme style -->
+    <link href="~/Assets/admin/libs/toastr/toastr.css" rel="stylesheet" />
     <link rel="stylesheet" href="/Assets/admin/css/AdminLTE.min.css">
+    <link href="~/Assets/admin/css/custom.css" rel="stylesheet" />
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="/Assets/admin/css/skins/_all-skins.min.css">
-    <link href="~/Assets/admin/libs/toastr/toastr.css" rel="stylesheet" />
-    <link href="~/Assets/admin/css/custom.css" rel="stylesheet" />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-</head>
+    </head>
 <body class="hold-transition skin-black sidebar-mini" ng-app="tedushop">
     <!-- Site wrapper -->
     <div class="wrapper">
@@ -446,24 +446,27 @@
     <script src="~/Assets/admin/libs/angular/angular.js"></script>
     <script src="~/Assets/admin/libs/angular-ui-router/release/angular-ui-router.js"></script>
     <script src="~/Assets/admin/libs/toastr/toastr.js"></script>
+    <script src="~/Assets/admin/libs/bootbox/bootbox.js"></script>
+    <script src="~/Assets/admin/libs/ckeditor/ckeditor.js"></script>
+    <script src="~/Assets/admin/libs/ckfinder/ckfinder.js"></script>
+    <script src="~/Assets/admin/libs/ngBootbox/ngBootbox.js"></script>
+    <script src="~/Assets/admin/libs/ng-ckeditor/ng-ckeditor.js"></script>
 
     <script src="~/app/shared/modules/tedushop.common.js"></script>
-    <script src="~/app/components/products/products.module.js"></script>
-    <script src="~/app/components/product_categories/productCategories.module.js"></script>>
-    <script src="~/app/shared/services/apiService.js"></script>
-    <script src="~/app/shared/services/commonService.js"></script>
-    <script src="~/app/app.js"></script>
-
-    <script src="~/app/components/home/homeController.js"></script>
-    <script src="~/app/components/products/productListController.js"></script>
-    <script src="~/app/components/product_categories/productCategoryListController.js"></script>
-    <script src="~/app/components/product_categories/productCategoryEditController.js"></script>
-    <script src="~/app/components/product_categories/productCategoryAddController.js"></script>
-    <script src="~/app/components/products/productEditController.js"></script>
-    <script src="~/app/components/products/productAddController.js"></script>
-
-    <script src="~/app/shared/services/notificationService.js"></script>
-    <script src="~/app/shared/directives/pagerDirective.js"></script>
     <script src="~/app/shared/filter/statusFilter.js"></script>
+    <script src="~/app/shared/services/apiService.js"></script>
+    <script src="~/app/shared/directives/pagerDirective.js"></script>
+    <script src="~/app/shared/services/notificationService.js"></script>
+    <script src="~/app/shared/services/commonService.js"></script>
+    <script src="~/app/components/products/products.module.js"></script>
+    <script src="~/app/components/product_categories/productCategories.module.js"></script>
+    <script src="~/app/app.js"></script>
+    <script src="~/app/components/product_categories/productCategoryListController.js"></script>
+    <script src="~/app/components/product_categories/productCategoryAddController.js"></script>
+    <script src="~/app/components/products/productAddController.js"></script>
+    <script src="~/app/components/product_categories/productCategoryEditController.js"></script>
+    <script src="~/app/components/products/productListController.js"></script>
+    <script src="~/app/components/home/homeController.js"></script>
+    <script src="~/app/components/products/productEditController.js"></script>
 </body>
 </html>

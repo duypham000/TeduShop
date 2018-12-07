@@ -185,15 +185,15 @@ namespace TeduShop.Web.Api
                 }
                 else
                 {
-                    var listProductCategory = new JavaScriptSerializer().Deserialize<List<int>>(checkedProducts);
-                    foreach (var item in listProductCategory)
+                    var listProduct = new JavaScriptSerializer().Deserialize<List<int>>(checkedProducts);
+                    foreach (var item in listProduct)
                     {
                         _productService.Delete(item);
                     }
 
                     _productService.Save();
 
-                    response = request.CreateResponse(HttpStatusCode.OK, listProductCategory.Count);
+                    response = request.CreateResponse(HttpStatusCode.OK, listProduct.Count);
                 }
 
                 return response;
