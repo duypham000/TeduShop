@@ -1,9 +1,9 @@
 ﻿(function (app) {
     app.controller('productCategoryListController', productCategoryListController);
 
-    productCategoryListController.$inject = ['$scope', 'apiService', 'notificationService', '$ngBootbox'];
+    productCategoryListController.$inject = ['$scope', 'apiService', 'notificationService', '$ngBootbox', '$filter'];
 
-    function productCategoryListController($scope, apiService, notificationService, $ngBootbox) {
+    function productCategoryListController($scope, apiService, notificationService, $ngBootbox, $filter) {
         $scope.productCategories = [];
         $scope.page = 0;
         $scope.pagesCount = 0;
@@ -11,21 +11,30 @@
         $scope.search = search;
         $scope.keyword = '';
         $scope.selectAll = selectAll;
-
         $scope.isAll = false;
         function selectAll() {
             if ($scope.isAll === false) {
-                angular.forEach($scope.products, function (item) {
+                angular.forEach($scope.productCategories, function (item) {
                     item.checked = true;
                 });
                 $scope.isAll = true;
             } else {
-                angular.forEach($scope.products, function (item) {
+                angular.forEach($scope.productCategories, function (item) {
                     item.checked = false;
                 });
                 $scope.isAll = false;
             }
         }
+
+        $scope.$watch("productCategories", function (n, o) {
+            var checked = $filter("filter")(n, { checked: true });
+            if (checked.length) {
+                $scope.selected = checked;
+                $('#btnDelete').removeAttr('disabled');
+            } else {
+                $('#btnDelete').attr('disabled', 'disabled');
+            }
+        }, true);
         function search() {
             getProductCagories();
         }
@@ -38,7 +47,7 @@
             });
             var config = {
                 params: {
-                    checkedProducts: JSON.stringify(listId)
+                    checkedProductCategories: JSON.stringify(listId)
                 }
             }
             apiService.del('api/productcategory/deletemulti', config, function (result) {
