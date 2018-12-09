@@ -226,3 +226,4 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Web.Http.WebHost.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\CKFinder.dll

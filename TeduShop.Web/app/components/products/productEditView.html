@@ -51,7 +51,7 @@
         <div class="form-group">
             <label for="inputEmail3" class="col-sm-2 control-label">Danh mục</label>
             <div class="col-sm-10">
-                <select name="parentId" class="form-control" ng-model="product.CategoryID" ng-options="option.ID as option.Name for option in categories">
+                <select name="parentId" class="form-control" ng-model="product.CategoryID" ng-options="option.ID as option.Name for option in productCategories">
                     <option value="">Danh mục gốc</option>
                 </select>
                 <input type="hidden" name="categoryId" ng-model="product.CategoryID" />
@@ -62,6 +62,23 @@
             <div class="col-sm-10">
                 <input type="number" class="form-control" name="displayOrder" required ng-model="product.DisplayOrder">
                 <span ng-show="frmUpdateProduct.displayOrder.$invalid" class="has-error">Phải nhập thứ tự</span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Hình ảnh</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" name="image" required ng-model="product.Image">
+                <span ng-show="frmAddProduct.image.maxlength" class="has-error">Hình ảnh chỉ được 255 ký tự</span>
+                <button class="btn btn-default" type="button" ng-click="ChoseImage()">Chọn ảnh</button>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Thêm ảnh</label>
+            <div class="col-sm-10">
+                <ul class="list-inline">
+                    <li ng-repeat="img in moreImages"><img ng-src="{{img}}" width="100" /></li>
+                </ul>
+                <button class="btn btn-default" type="button" ng-click="ChooseMoreImage()">Chọn ảnh</button>
             </div>
         </div>
         <div class="form-group">

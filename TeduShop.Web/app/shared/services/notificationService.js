@@ -26,7 +26,7 @@
             }
         }
 
-        function dispayWarning(message) {
+        function displayWarning(message) {
             toastr.warning(message);
         }
 
@@ -37,7 +37,7 @@
         return {
             displaySuccess: displaySuccess,
             displayError: displayError,
-            dispayWarning: dispayWarning,
+            displayWarning: displayWarning,
             displayInfo: displayInfo
         }
     }

@@ -63,6 +63,10 @@
       <HintPath>..\packages\AutoMapper.4.2.1\lib\net45\AutoMapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="CKFinder, Version=2.6.0.2792, Culture=neutral, PublicKeyToken=579e7adc719a1423, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\CKFinder.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
       <Private>True</Private>
@@ -5675,8 +5679,6 @@
     <Content Include="Global.asax" />
     <Content Include="Libs\CKFinder.dll" />
     <Content Include="Resources\db.sql" />
-    <Content Include="UploadFiles\files\46125882_2512126428805063_5120318735931932672_n.jpg" />
-    <Content Include="UploadFiles\_thumbs\Files\46125882_2512126428805063_5120318735931932672_n.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -5694,8 +5696,7 @@
     <Folder Include="app\shared\navigation\" />
     <Folder Include="Assets\admin\js\pages\" />
     <Folder Include="Assets\client\" />
-    <Folder Include="UploadFiles\flash\" />
-    <Folder Include="UploadFiles\images\" />
+    <Folder Include="UploadedFiles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
