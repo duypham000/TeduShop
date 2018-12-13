@@ -1,5 +1,4 @@
-﻿
-(function (app) {
+﻿(function (app) {
     app.controller('rootController', rootController);
 
     rootController.$inject = ['$state', 'authData', 'loginService', '$scope', 'authenticationService'];
@@ -11,9 +10,6 @@
         }
         $scope.authentication = authData.authenticationData;
 
-        authenticationService.validateRequest();
-        //sau khi test xong comment nó lại như vầy
         //authenticationService.validateRequest();
     }
 })(angular.module('tedushop'));
-
