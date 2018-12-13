@@ -15,10 +15,10 @@ using System.Web.Script.Serialization;
 namespace TeduShop.Web.Api
 {
     [RoutePrefix("api/productcategory")]
+    [Authorize]
     public class ProductCategoryController : ApiControllerBase
     {
         #region Initialize
-
         private IProductCategoryService _productCategoryService;
 
         public ProductCategoryController(IErrorService errorService, IProductCategoryService productCategoryService)
@@ -27,7 +27,7 @@ namespace TeduShop.Web.Api
             this._productCategoryService = productCategoryService;
         }
 
-        #endregion Initialize
+        #endregion
 
         [Route("getallparents")]
         [HttpGet]
@@ -43,7 +43,6 @@ namespace TeduShop.Web.Api
                 return response;
             });
         }
-
         [Route("getbyid/{id:int}")]
         [HttpGet]
         public HttpResponseMessage GetById(HttpRequestMessage request, int id)
@@ -85,6 +84,7 @@ namespace TeduShop.Web.Api
                 return response;
             });
         }
+
 
         [Route("create")]
         [HttpPost]
@@ -160,13 +160,14 @@ namespace TeduShop.Web.Api
                 {
                     var oldProductCategory = _productCategoryService.Delete(id);
                     _productCategoryService.Save();
+
                     var responseData = Mapper.Map<ProductCategory, ProductCategoryViewModel>(oldProductCategory);
                     response = request.CreateResponse(HttpStatusCode.Created, responseData);
                 }
+
                 return response;
             });
         }
-
         [Route("deletemulti")]
         [HttpDelete]
         [AllowAnonymous]
