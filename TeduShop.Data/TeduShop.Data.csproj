@@ -64,17 +64,9 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201811271321123_IntitalDB.cs" />
-    <Compile Include="Migrations\201811271321123_IntitalDB.Designer.cs">
-      <DependentUpon>201811271321123_IntitalDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201811281259057_updateProductTable.cs" />
-    <Compile Include="Migrations\201811281259057_updateProductTable.Designer.cs">
-      <DependentUpon>201811281259057_updateProductTable.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201812121258044_updated1.cs" />
-    <Compile Include="Migrations\201812121258044_updated1.Designer.cs">
-      <DependentUpon>201812121258044_updated1.cs</DependentUpon>
+    <Compile Include="Migrations\201812151252464_IntitalDB.cs" />
+    <Compile Include="Migrations\201812151252464_IntitalDB.Designer.cs">
+      <DependentUpon>201812151252464_IntitalDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -99,7 +91,9 @@
     <Compile Include="TeduShopDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -113,14 +107,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201811271321123_IntitalDB.resx">
-      <DependentUpon>201811271321123_IntitalDB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201811281259057_updateProductTable.resx">
-      <DependentUpon>201811281259057_updateProductTable.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201812121258044_updated1.resx">
-      <DependentUpon>201812121258044_updated1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201812151252464_IntitalDB.resx">
+      <DependentUpon>201812151252464_IntitalDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
