@@ -17,7 +17,7 @@ namespace TeduShop.Web.Models
 
         public string MoreImages { get; set; }
         public decimal Price { get; set; }
-        public decimal PromotionPrice { get; set; }
+        public decimal? PromotionPrice { get; set; }
         public int Warranty { get; set; }
 
         public string Description { get; set; }

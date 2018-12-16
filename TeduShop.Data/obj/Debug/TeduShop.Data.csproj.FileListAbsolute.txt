@@ -50,11 +50,10 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.x
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojAssemblyReference.cache
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.IntitalDB.resources
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.updateProductTable.resources
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.updated1.resources
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.IntitalDB.resources
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.updateSlide.resources

@@ -64,17 +64,13 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201811271321123_IntitalDB.cs" />
-    <Compile Include="Migrations\201811271321123_IntitalDB.Designer.cs">
-      <DependentUpon>201811271321123_IntitalDB.cs</DependentUpon>
+    <Compile Include="Migrations\201812151337545_IntitalDB.cs" />
+    <Compile Include="Migrations\201812151337545_IntitalDB.Designer.cs">
+      <DependentUpon>201812151337545_IntitalDB.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201811281259057_updateProductTable.cs" />
-    <Compile Include="Migrations\201811281259057_updateProductTable.Designer.cs">
-      <DependentUpon>201811281259057_updateProductTable.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201812121258044_updated1.cs" />
-    <Compile Include="Migrations\201812121258044_updated1.Designer.cs">
-      <DependentUpon>201812121258044_updated1.cs</DependentUpon>
+    <Compile Include="Migrations\201812160614226_updateSlide.cs" />
+    <Compile Include="Migrations\201812160614226_updateSlide.Designer.cs">
+      <DependentUpon>201812160614226_updateSlide.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -113,14 +109,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201811271321123_IntitalDB.resx">
-      <DependentUpon>201811271321123_IntitalDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201812151337545_IntitalDB.resx">
+      <DependentUpon>201812151337545_IntitalDB.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201811281259057_updateProductTable.resx">
-      <DependentUpon>201811281259057_updateProductTable.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201812121258044_updated1.resx">
-      <DependentUpon>201812121258044_updated1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201812160614226_updateSlide.resx">
+      <DependentUpon>201812160614226_updateSlide.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

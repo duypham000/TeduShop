@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
+    <title>Trang chủ</title>
     <link href="../../Assets/client/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <!--theme-style-->
     <link href="../../Assets/client/css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -27,6 +27,7 @@
     <div class="container">
         @RenderBody()
     </div>
+    @RenderSection("homeProducts", required: false)
 
     <!-- thanh menu bên trái -->
     @{ Html.RenderAction("Category", "Home");}
