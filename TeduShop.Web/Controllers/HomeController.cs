@@ -16,7 +16,11 @@ namespace TeduShop.Web.Controllers
         private ICommonService _commonService;
         private IProductService _productService;
 
+<<<<<<< HEAD
         public HomeController(IProductCategoryService productCategoryService, ICommonService commonService, IProductService productService)
+=======
+        public HomeController(IProductCategoryService productCategoryService, IProductService productService, ICommonService commonService)
+>>>>>>> test
         {
             this._productCategoryService = productCategoryService;
             this._commonService = commonService;
@@ -31,7 +35,11 @@ namespace TeduShop.Web.Controllers
             homeViewModel.Slides = slideView;
 
             var lastestProductModel = _productService.GetLastest(3);
+<<<<<<< HEAD
             var topSaleProductModel = _productService.GetHotProducts(3);
+=======
+            var topSaleProductModel = _productService.GetHotProduct(3);
+>>>>>>> test
             var lastestProductViewModel = Mapper.Map<IEnumerable<Product>, IEnumerable<ProductViewModel>>(lastestProductModel);
             var topSaleProductViewModel = Mapper.Map<IEnumerable<Product>, IEnumerable<ProductViewModel>>(topSaleProductModel);
             homeViewModel.LastestProducts = lastestProductViewModel;

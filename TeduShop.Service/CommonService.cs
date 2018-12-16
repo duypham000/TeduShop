@@ -22,11 +22,13 @@ namespace TeduShop.Service
         private ISlideRepository _slideRepository;
         private IFooterRepository _footerRepository;
         private IUnitOfWork _unitOfWork;
+        private ISlideRepository _slideRepository;
 
-        public CommonService(IFooterRepository footerRepository, IUnitOfWork unitOfWork)
+        public CommonService(IFooterRepository footerRepository, IUnitOfWork unitOfWork, ISlideRepository slideRepository)
         {
             this._footerRepository = footerRepository;
             this._unitOfWork = unitOfWork;
+            this._slideRepository = slideRepository;
         }
 
         public CommonService(ISlideRepository slideRepository, IFooterRepository footerRepository, IUnitOfWork unitOfWork)

@@ -7,11 +7,11 @@
             {
                 var url = "/" + category.Alias + ".pc" + category.ID + ".html";
                 var childCategories = Model.Where(x => x.ParentID == category.ID);
-
-                <li>
+                var show = (childCategories.Count() > 0 ? "arrow-img img-left-arrow" : "hidden");
+                <li class="item1">
                     <a href="@url">
                         @category.Name
-                        @(childCategories.Count() > 0 ? "<img class=\"arrow-img\" src=\"../../Assets/client/images/arrow1.png\" alt=\"\" />" : "")
+                        <img class="@show" src="../../Assets/client/images/arrow1.png" alt="" />
                     </a>
                     <ul class="cute">
                         @foreach (var childCategory in childCategories)
@@ -22,6 +22,7 @@
                     </ul>
                 </li>
             }
+
             <!--<li>
                 <ul class="kid-menu">
                     <li><a href="product.html">Tempus pretium</a></li>

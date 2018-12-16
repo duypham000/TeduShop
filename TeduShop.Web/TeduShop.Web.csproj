@@ -205,8 +205,12 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\Startup.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AboutController.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PostController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -5750,6 +5754,30 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Libs\CKFinder.dll" />
+    <Content Include="UploadedFiles\images\091714_2032_Skhcnhaugi22.png" />
+    <Content Include="UploadedFiles\images\43585285_2087324331324484_7028285964938117120_n.png" />
+    <Content Include="UploadedFiles\images\55.jpg" />
+    <Content Include="UploadedFiles\images\61.jpg" />
+    <Content Include="UploadedFiles\images\bo.jpg" />
+    <Content Include="UploadedFiles\images\bott.jpg" />
+    <Content Include="UploadedFiles\images\bottle.jpg" />
+    <Content Include="UploadedFiles\images\LOGOTEDU.jpg" />
+    <Content Include="UploadedFiles\images\pi4.jpg" />
+    <Content Include="UploadedFiles\images\pic2.jpg" />
+    <Content Include="UploadedFiles\images\wa.jpg" />
+    <Content Include="UploadedFiles\images\wat.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\091714_2032_Skhcnhaugi22.png" />
+    <Content Include="UploadedFiles\_thumbs\Images\43585285_2087324331324484_7028285964938117120_n.png" />
+    <Content Include="UploadedFiles\_thumbs\Images\55.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\61.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\bo.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\bott.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\bottle.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\LOGOTEDU.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\pi4.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\pic2.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\wa.jpg" />
+    <Content Include="UploadedFiles\_thumbs\Images\wat.jpg" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Header.cshtml" />
     <Content Include="Views\Shared\Category.cshtml" />
@@ -5771,7 +5799,11 @@
     <Folder Include="app\shared\navigation\" />
     <Folder Include="Assets\admin\js\pages\" />
     <Folder Include="Assets\client\libs\" />
-    <Folder Include="UploadedFiles\" />
+    <Folder Include="UploadedFiles\files\" />
+    <Folder Include="Views\About\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Views\Post\" />
+    <Folder Include="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

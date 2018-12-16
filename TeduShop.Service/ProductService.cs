@@ -23,7 +23,11 @@ namespace TeduShop.Service
 
         IEnumerable<Product> GetLastest(int top);
 
+<<<<<<< HEAD
         IEnumerable<Product> GetHotProducts(int top);
+=======
+        IEnumerable<Product> GetHotProduct(int top);
+>>>>>>> test
 
         void Save();
     }
@@ -96,7 +100,11 @@ namespace TeduShop.Service
             return _productRepository.GetSingleById(id);
         }
 
+<<<<<<< HEAD
         public IEnumerable<Product> GetHotProducts(int top)
+=======
+        public IEnumerable<Product> GetHotProduct(int top)
+>>>>>>> test
         {
             return _productRepository.GetMulti(x => x.Status && x.HotFlag == true).OrderByDescending(x => x.CreatedDate).Take(top);
         }

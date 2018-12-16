@@ -64,9 +64,19 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
+<<<<<<< HEAD
     <Compile Include="Migrations\201812151252464_IntitalDB.cs" />
     <Compile Include="Migrations\201812151252464_IntitalDB.Designer.cs">
       <DependentUpon>201812151252464_IntitalDB.cs</DependentUpon>
+=======
+    <Compile Include="Migrations\201812151337545_IntitalDB.cs" />
+    <Compile Include="Migrations\201812151337545_IntitalDB.Designer.cs">
+      <DependentUpon>201812151337545_IntitalDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812160614226_updateSlide.cs" />
+    <Compile Include="Migrations\201812160614226_updateSlide.Designer.cs">
+      <DependentUpon>201812160614226_updateSlide.cs</DependentUpon>
+>>>>>>> test
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -107,8 +117,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Include="Migrations\201812151252464_IntitalDB.resx">
       <DependentUpon>201812151252464_IntitalDB.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Migrations\201812151337545_IntitalDB.resx">
+      <DependentUpon>201812151337545_IntitalDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812160614226_updateSlide.resx">
+      <DependentUpon>201812160614226_updateSlide.cs</DependentUpon>
+>>>>>>> test
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
