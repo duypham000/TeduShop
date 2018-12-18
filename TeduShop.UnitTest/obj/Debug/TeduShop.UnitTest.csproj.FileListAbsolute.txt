@@ -126,8 +126,82 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\AutoMapper.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojAssemblyReference.cache
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Moq.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Data.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Model.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Service.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Http.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\AutoMapper.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Data.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Data.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Model.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Model.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Service.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Web.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\EntityFramework.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Moq.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Http.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\AutoMapper.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.Razor.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojAssemblyReference.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CopyComplete
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\roslyn\csc.exe
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -161,7 +235,7 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Owin.dll
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Autofac.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\AutoMapper.dll
@@ -174,7 +248,7 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Data.pdb
@@ -195,12 +269,11 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Autofac.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\AutoMapper.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
@@ -208,8 +281,10 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Razor.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojAssemblyReference.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CopyComplete
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb

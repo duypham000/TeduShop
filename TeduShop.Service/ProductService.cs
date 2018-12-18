@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using TeduShop.Common;
 using TeduShop.Data.Infrastructure;
@@ -19,15 +20,13 @@ namespace TeduShop.Service
 
         IEnumerable<Product> GetAll(string keyword);
 
-        Product GetById(int id);
-
         IEnumerable<Product> GetLastest(int top);
 
-<<<<<<< HEAD
-        IEnumerable<Product> GetHotProducts(int top);
-=======
         IEnumerable<Product> GetHotProduct(int top);
->>>>>>> test
+
+        IEnumerable<Product> GetListProductByCategoryIdPaging(int categoryId, int page, int pageSize, out int totalRow);
+
+        Product GetById(int id);
 
         void Save();
     }
@@ -100,20 +99,6 @@ namespace TeduShop.Service
             return _productRepository.GetSingleById(id);
         }
 
-<<<<<<< HEAD
-        public IEnumerable<Product> GetHotProducts(int top)
-=======
-        public IEnumerable<Product> GetHotProduct(int top)
->>>>>>> test
-        {
-            return _productRepository.GetMulti(x => x.Status && x.HotFlag == true).OrderByDescending(x => x.CreatedDate).Take(top);
-        }
-
-        public IEnumerable<Product> GetLastest(int top)
-        {
-            return _productRepository.GetMulti(x => x.Status).OrderByDescending(x => x.CreatedDate).Take(top);
-        }
-
         public void Save()
         {
             _unitOfWork.Commit();
@@ -142,7 +127,28 @@ namespace TeduShop.Service
                     productTag.TagID = tagId;
                     _productTagRepository.Add(productTag);
                 }
+
             }
+        }
+
+        public IEnumerable<Product> GetLastest(int top)
+        {
+            return _productRepository.GetMulti(x => x.Status).OrderByDescending(x => x.CreatedDate).Take(top);
+        }
+
+        public IEnumerable<Product> GetHotProduct(int top)
+        {
+            return _productRepository.GetMulti(x => x.Status && x.HotFlag == true).OrderByDescending(x => x.CreatedDate).Take(top);
+
+        }
+
+        public IEnumerable<Product> GetListProductByCategoryIdPaging(int categoryId, int page, int pageSize, out int totalRow)
+        {
+            var query = _productRepository.GetMulti(x => x.Status && x.CategoryID == categoryId);
+
+            totalRow = query.Count();
+
+            return query.Skip((page - 1) * pageSize).Take(pageSize);
         }
     }
 }

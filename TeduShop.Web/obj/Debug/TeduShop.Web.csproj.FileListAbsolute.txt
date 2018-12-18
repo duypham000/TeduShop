@@ -56,7 +56,6 @@ D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\TeduShop.Model.pdb
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\TeduShop.Service.pdb
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\EntityFramework.xml
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\csc.exe
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -73,11 +72,25 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Web.dll.config
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Web.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Web.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Antlr3.Runtime.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\CKFinder.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\EntityFramework.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\EntityFramework.SqlServer.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Web.Infrastructure.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Newtonsoft.Json.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Owin.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Net.Http.Formatting.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Helpers.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Http.dll
@@ -97,9 +110,21 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Common.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Data.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Model.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\TeduShop.Service.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\EntityFramework.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\EntityFramework.SqlServer.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Helpers.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Mvc.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Optimization.xml
@@ -112,35 +137,85 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Newtonsoft.Json.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Net.Http.Formatting.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Http.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Http.WebHost.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Owin.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojAssemblyReference.cache
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Web.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Web.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Web.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Antlr3.Runtime.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\AutoMapper.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\CKFinder.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\EntityFramework.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\EntityFramework.SqlServer.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Newtonsoft.Json.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Owin.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Net.Http.Formatting.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Helpers.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Http.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Http.WebHost.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Mvc.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Optimization.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Razor.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.Deployment.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.Razor.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Common.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Data.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Model.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Service.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\WebGrease.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Common.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Data.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Data.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Model.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Model.dll.config
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\TeduShop.Service.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.Integration.Mvc.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\AutoMapper.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\EntityFramework.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\EntityFramework.SqlServer.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Helpers.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Mvc.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Optimization.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Razor.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.Deployment.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.WebPages.Razor.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Antlr3.Runtime.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\Newtonsoft.Json.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Net.Http.Formatting.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Http.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\bin\System.Web.Http.WebHost.xml
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\obj\Debug\TeduShop.Web.csprojAssemblyReference.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\obj\Debug\TeduShop.Web.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\csc.exe
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -161,6 +236,7 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Autofac.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\AutoMapper.dll
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\CKFinder.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\EntityFramework.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
@@ -223,7 +299,8 @@ E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\Newtonsoft.Json.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Net.Http.Formatting.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Web.Http.xml
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\System.Web.Http.WebHost.xml
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojAssemblyReference.cache
+E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
-E:\Build_Asp.netMVC\TeduShop\TeduShop.Web\bin\CKFinder.dll

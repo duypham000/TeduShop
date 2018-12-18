@@ -6,6 +6,12 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+E:\vi\source\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai44\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
 E:\Build_Asp.netMVC\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿namespace TeduShop.Web.Models
+namespace TeduShop.Web.Models
 {
     public class SlideViewModel
     {
@@ -11,31 +10,5 @@
         public int? DisplayOrder { get; set; }
         public bool Status { get; set; }
         public string Content { get; set; }
-=======
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace TeduShop.Web.Models
-{
-    public class SlideViewModel
-    {
-        public int ID { set; get; }
-
-        public string Name { set; get; }
-
-        public string Description { set; get; }
-
-        public string Image { set; get; }
-
-        public string Url { set; get; }
-
-        public string Content { get; set; }
-
-        public int? DisplayOrder { set; get; }
-
-        public bool Status { set; get; }
->>>>>>> test
     }
 }
