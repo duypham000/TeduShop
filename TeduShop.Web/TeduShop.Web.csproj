@@ -4300,9 +4300,6 @@
     <Content Include="Views\Shared\Category.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Product\Category.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Assets\client\font-awesome-4.6.3\fonts\fontawesome-webfont.eot" />
     <Content Include="Assets\client\font-awesome-4.6.3\fonts\fontawesome-webfont.ttf" />
     <Content Include="Assets\client\font-awesome-4.6.3\fonts\fontawesome-webfont.woff" />
@@ -4336,6 +4333,9 @@
     <Content Include="Assets\client\font-awesome-4.6.3\scss\_screen-reader.scss" />
     <Content Include="Assets\client\font-awesome-4.6.3\scss\_stacked.scss" />
     <Content Include="Assets\client\font-awesome-4.6.3\scss\_variables.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Product\Category.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

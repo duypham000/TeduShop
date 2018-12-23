@@ -127,7 +127,6 @@ namespace TeduShop.Service
                     productTag.TagID = tagId;
                     _productTagRepository.Add(productTag);
                 }
-
             }
         }
 
@@ -139,7 +138,6 @@ namespace TeduShop.Service
         public IEnumerable<Product> GetHotProduct(int top)
         {
             return _productRepository.GetMulti(x => x.Status && x.HotFlag == true).OrderByDescending(x => x.CreatedDate).Take(top);
-
         }
 
         public IEnumerable<Product> GetListProductByCategoryIdPaging(int categoryId, int page, int pageSize, out int totalRow)

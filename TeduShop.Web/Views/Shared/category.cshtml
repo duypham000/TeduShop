@@ -5,7 +5,7 @@
         <ul class="menu">
             @foreach (var category in Model.Where(x => x.ParentID == 0))
             {
-                var url = "/" + category.Alias + ".pc" + category.ID + ".html";
+                var url = "/" + category.Alias + ".pc-" + category.ID + ".html";
                 var childCategories = Model.Where(x => x.ParentID == category.ID);
                 var show = (childCategories.Count() > 0 ? "arrow-img img-left-arrow" : "hidden");
                 <li class="item1">
@@ -16,7 +16,7 @@
                     <ul class="cute">
                         @foreach (var childCategory in childCategories)
                         {
-                            var childUrl = "/" + childCategory.Alias + ".pc" + childCategory.ID + ".html";
+                            var childUrl = "/" + childCategory.Alias + ".pc-" + childCategory.ID + ".html";
                             <li class="subitem1"><a href="@childUrl">@childCategory.Name</a></li>
                         }
                     </ul>
@@ -35,7 +35,7 @@
         </ul>
     </div>
     <!--initiate accordion-->
-    <script type="text/javascript">
+    @*<script type="text/javascript">
         $(function () {
             var menu_ul = $('.menu > li > ul'),
                 menu_a = $('.menu > li > a');
@@ -53,7 +53,7 @@
             });
 
         });
-    </script>
+    </script>*@
     <!-- sản phẩm hot -->
     <div class=" chain-grid menu-chain">
         <a href="single.html"><img class="img-responsive chain" src="../../Assets/client/images/wat.jpg" alt=" " /></a>

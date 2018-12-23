@@ -19,22 +19,21 @@
     <!--//fonts-->
     <script src="../../Assets/client/js/jquery.min.js"></script>
     <!--script-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 <body>
     <!--header-->
-    @{ Html.RenderAction("Header", "Home");}
+    @{Html.RenderAction("Header", "Home");}
     <!---->
     <div class="container">
         @RenderBody()
-    </div>
-    @RenderSection("homeProducts", required: false)
-
-    <!-- thanh menu bên trái -->
-    @{ Html.RenderAction("Category", "Home");}
-    <div class="clearfix"> </div>
+        @{Html.RenderAction("Category", "Home");}
     </div>
 
-    <!---->
     @{ Html.RenderAction("Footer", "Home");}
+    <div class="clearfix"> </div>
+
+    @RenderSection("footerJS", required: false)
 </body>
+
 </html>
